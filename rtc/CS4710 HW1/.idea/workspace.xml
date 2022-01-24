@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67e282f4-1aed-4e46-a94a-cd7ae8f7d809" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gi7NstMqT5AWZhKyNakzsHz4UE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager" selected="Python.search">
+    <configuration name="autograder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proj1-search-python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autograder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pacman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proj1-search-python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proj1-search-python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="searchAgents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proj1-search-python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/searchAgents.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.search" />
+        <item itemvalue="Python.autograder" />
+        <item itemvalue="Python.searchAgents" />
+        <item itemvalue="Python.pacman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e282f4-1aed-4e46-a94a-cd7ae8f7d809" name="Default Changelist" comment="" />
+      <created>1598585521045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598585521045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598585968763">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="0" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1015@0.23.1920.1015" timestamp="1598585968763" />
+    <state width="1125" height="192" key="GridCell.Tab.0.bottom" timestamp="1600045132200">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1125" height="192" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1600045132200" />
+    <state width="1222" height="188" key="GridCell.Tab.0.bottom/0.23.1920.1015@0.23.1920.1015" timestamp="1599411073058" />
+    <state width="1125" height="192" key="GridCell.Tab.0.center" timestamp="1600045132197">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1125" height="192" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1600045132197" />
+    <state width="1222" height="188" key="GridCell.Tab.0.center/0.23.1920.1015@0.23.1920.1015" timestamp="1599411073056" />
+    <state width="1125" height="192" key="GridCell.Tab.0.left" timestamp="1600045132193">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1125" height="192" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1600045132193" />
+    <state width="1222" height="188" key="GridCell.Tab.0.left/0.23.1920.1015@0.23.1920.1015" timestamp="1599411073056" />
+    <state width="1125" height="192" key="GridCell.Tab.0.right" timestamp="1600045132197">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1125" height="192" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1600045132197" />
+    <state width="1222" height="188" key="GridCell.Tab.0.right/0.23.1920.1015@0.23.1920.1015" timestamp="1599411073057" />
+    <state width="997" height="340" key="GridCell.Tab.1.bottom" timestamp="1599346544373">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="997" height="340" key="GridCell.Tab.1.bottom/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1599346544373" />
+    <state width="997" height="340" key="GridCell.Tab.1.center" timestamp="1599346544372">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="997" height="340" key="GridCell.Tab.1.center/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1599346544372" />
+    <state width="997" height="340" key="GridCell.Tab.1.left" timestamp="1599346544371">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="997" height="340" key="GridCell.Tab.1.left/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1599346544371" />
+    <state width="997" height="340" key="GridCell.Tab.1.right" timestamp="1599346544372">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="997" height="340" key="GridCell.Tab.1.right/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1599346544372" />
+    <state x="25" y="136" key="SettingsEditor" timestamp="1599420441055">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="25" y="136" key="SettingsEditor/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1599420441055" />
+    <state x="25" y="136" key="SettingsEditor/0.23.1920.1015@0.23.1920.1015" timestamp="1598980328490" />
+    <state x="892" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1599512626449">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="892" y="362" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1599355436758" />
+    <state x="892" y="362" key="com.intellij.ide.util.TipDialog/0.23.1920.1015@0.23.1920.1015" timestamp="1599512626449" />
+    <state x="972" y="273" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599346540675">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="972" y="273" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1599346540675" />
+    <state x="650" y="167" width="683" height="729" key="find.popup" timestamp="1599938392917">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="650" y="167" width="683" height="729" key="find.popup/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1599938392917" />
+    <state x="1095" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1599881147722">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="1095" y="247" width="670" height="676" key="search.everywhere.popup/-1440.23.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1599881147722" />
+  </component>
+</project>
